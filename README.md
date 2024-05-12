@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf Bera Danışık
 - 👀 I’m interested in Space and AI.
-- 🌱 I’m currently learning Python and Mechine Learning.
+- 🌱 I’m currently learning Python and Machine Learning.
 
 
 <!---
